@@ -16,9 +16,13 @@ public class Main {
         
         s.setSurah("AlFatihah","AnNas","AlFalaq","AlIkhlas");
         System.out.println("Surah Pertama : "+s.getAlFatihah());
+        System.out.println("Yuran dikenakan : rm20");
         System.out.println("Surah Ke-Dua : "+s.getAnNas());
+        System.out.println("Yuran dikenakan : rm30");
         System.out.println("Surah ke-Tiga : "+s.getAlFalaq());
+        System.out.println("Yuran dikenakan : rm40");
         System.out.println("Surah Ke-Empat : "+s.getAlIkhlas());
+        System.out.println("Yuran dikenakan : rm50");
         
     }  
 }
